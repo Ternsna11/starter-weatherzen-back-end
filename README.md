@@ -32,3 +32,4 @@ This starter code closely follows the best practices and patterns established in
 1. Run `npm run start:dev` to start your server in development mode.
 
 If you have trouble getting the server to run, reach out for assistance.
+# WeatherZen
